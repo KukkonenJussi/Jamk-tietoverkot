@@ -1,21 +1,23 @@
 # Pohjarepositorio Tietoverkot -opintojakson harjoitteille 
 
-Alapuolella linkit jokaisen tehtävän dokumentoiteihin. Kurssi suoritettu erinomaisella arvosanalla Jyväskylän ammattikorkeakoulussa keväällä 2022. Kurssi oli osana kyberturvallisuus 30 op -opintokokonaisuutta.
+Alapuolella linkit jokaisen tehtävän dokumentoiteihin. Kyseinen opintojakso on suoritettu keväällä 2022 Jyväskylän ammattikorkeakoulun kautta. Mikäli tarkka kurssin kuvaus kiinnostaa, se löytyy [tästä](documentation/Kurssikuvaus.md).
 
-- [E01.md](/documentation/E01.md)
-- [E02.md](/documentation/E02.md)
-- [E03.md](/documentation/E03.md)
-- [E04.md](/documentation/E04.md)
-- [E05.md](/documentation/E05.md)
-- [E06.md](/documentation/E06.md)
-- [E07.md](/documentation/E07.md)
-- [E08.md](/documentation/E08.md)
-- [E09.md](/documentation/E09.md)
-- [E10.md](/documentation/E10.md)
-- [E11.md](/documentation/E11.md)
-- [E12.md](/documentation/E12.md)
-- [E13.md](/documentation/E13.md)
-- [E14.md](/documentation/E14.md)
-- [E15.md](/documentation/E15.md)
-- [E16.md](/documentation/E16.md)
-- [E17.md](/documentation/E17.md)
+### <ins>Kurssin tehtävät:
+
+- [1: Ensimmäisen virtuaalikoneen tekeminen](/documentation/E01.md)
+- [2: Ensimmäiset kytkimet](/documentation/E02.md)
+- [3: Aliverkkojen laskenta](/documentation/E03.md)
+- [4: Laitteiden osoitteistaminen](/documentation/E04.md)
+- [5: DHCP -konfigurointi ja staattinen reititys](/documentation/E05.md)
+- [6: Fyysinen osuus](/documentation/E06.md)
+- [7: Konfiguroi STP](/documentation/E07.md)
+- [8: Konfiguroi OSPF](/documentation/E08.md)
+- [9: Konfiguroi palomuuri](/documentation/E09.md)
+- [10: Konfiguroi NAT](/documentation/E10.md)
+- [11: Mitataan TCP ja UDP](/documentation/E11.md)
+- [12: Verkon konfiguraation hallinta](/documentation/E12.md)
+- [13: Konfiguroidaan Apache resurssien jakoon](/documentation/E13.md)
+- [14: Langaton yhteydellisyys](/documentation/E14.md)
+- [15: Tehdään DNS toiminnallisuutta](/documentation/E15.md)
+- [16: Tehdään verkosta Dual-Stack](/documentation/E16.md)
+- [17: Tervetuloa Internettiin](/documentation/E17.md)
